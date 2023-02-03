@@ -1,0 +1,12 @@
+### tokens
+TT_INT = "int"
+TT_FLOAT = "float"
+TT_plus = "+"
+TT_minus = "-"
+TT_mul = "*"
+TT_div = "/"
+TT_LParen = "("
+TT_Rparen = ")"
+
+## constatns
+DIGITS = '0123456789'
